@@ -1,0 +1,2 @@
+# Travel-Agency-Database
+Project descriptionIt was my project of DBS course in the 3rd Semester. Created a complete CMS for Travel Agency. It has 3 separate interfaces for Admin, Agent, and the Customer. Used MySQL Database with Node Backend Server. I had to read through a lot of documentation and Stackoverflow because everyone in the section was using MySQL and PHP legacy combo, as well as TA, was unfamiliar with Node JS so he could not help either.  But in the end, the project come out to be really awesome and TA said that "This is the best-Designed project in the section"
